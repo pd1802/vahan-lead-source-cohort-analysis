@@ -1,3 +1,6 @@
+# vahan-lead-source-cohort-analysis
+Data analytics &amp; machine learning case study analyzing lead-source performance, FT conversion, SQL aggregation, and predictive factors using Python and Random Forest.
+
 # Vahan Case Study — Lead-Source Cohort Performance
 
 Solution to the Vahan case study on cohort (lead-source) performance: identifying the best-converting
@@ -63,4 +66,7 @@ Three questions were asked:
 - SQL (ANSI-standard, tested logic in pandas equivalent)
 
 ---
+<<<<<<< HEAD
 *Vahan · Confidential — for candidate use only*
+=======
+>>>>>>> origin/main
