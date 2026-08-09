@@ -66,4 +66,3 @@ Three questions were asked:
 - SQL (ANSI-standard, tested logic in pandas equivalent)
 
 ---
-*Vahan · Confidential — for candidate use only*
